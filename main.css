@@ -1,0 +1,49 @@
+.main {
+    display: inline-block;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.div {
+    float: left;
+    width: 60%;
+}
+.main-title {
+    font-size: 230px;
+    color: rgb(65, 72, 72);
+    margin-top: 0px;
+}
+.description {
+    font-size: 50px;
+}
+.description-links {
+    font-size: 25px; 
+    color: rgb(65, 72, 72);
+}
+.links {
+    color:red ;
+    font-size: 25px;
+    text-decoration: none;
+}
+.link-one{
+    color:red ;
+    margin-left: 110px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.link-two {
+    color:red ; 
+    margin-left: 125px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.link-three {
+    color:red ; 
+    margin-left: 163px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.image {
+    float: right;
+    width: 40%;
+}
